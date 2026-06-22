@@ -40,11 +40,11 @@ Once identified, the application maps the prediction class to its matching datab
 Developed under the academic supervision of **Dr. Hajar Hameed Addeen**, Department of Computer Science, College of Computer Science and Information Systems, **Najran University**.
 
 ### Research & Engineering Team:
-* **Nourah Hadi Al Saleem** (443300164)
-* **Alia Manaa Al Hishlan** (443302540)
-* **Fatimah Rabeallah Alsharif** (443303391)
-* **Rimas Hadi Al Sulai** (443302322)
-* **Sarah Salman AlHarbi** (443301290)
+* **Nourah Hadi Al Saleem**  
+* **Alia Manaa Al Hishlan** 
+* **Fatimah Rabeallah Alsharif**  
+* **Rimas Hadi Al Sulai**  
+* **Sarah Salman AlHarbi**  
 
 ---
 
